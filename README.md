@@ -55,7 +55,7 @@ RTL LOGIC FOR T_FLIPFLOP:
 
 WAVEFORM:
 
-<img width="1163" height="764" alt="WAVE" src="https://github.com/user-attachments/assets/7b996906-a43c-445b-b9dd-1385c6f674b1" />
+![T_FLIP](https://github.com/user-attachments/assets/bf1417a6-3433-4021-b8a9-f0167da73014)
 
 NAME: TAMIZHAN.B
 
